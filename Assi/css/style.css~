@@ -1,0 +1,28 @@
+.a{
+border:dotted;
+width:500px;}
+.abc  {
+
+
+background-color:red;
+height:50px;
+width:500px;
+}
+.abc1{
+background-color:green;
+height:200px;
+width:200px;
+float:left;
+border:1px solid black;}
+
+.abc2{
+background-color:blue;
+height:200px;
+width:300px;
+float:left;}
+.abc3{
+background-color:pink;
+height:50px;
+width:500px;
+clear:both;}
+

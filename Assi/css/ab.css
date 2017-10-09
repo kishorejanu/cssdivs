@@ -1,0 +1,23 @@
+.a{
+border:2px solid black;
+width:1060px;
+height:300px;
+}
+.am{
+width:350px;
+height:300px;
+float:left;
+border:1px solid red;}
+.ama{
+width:350px;
+height:300px;
+float:left;
+border:1px solid black;}
+.amar{
+width:350px;
+height:300px;
+float:left;
+border:1px solid green;}
+.clear{
+clear:both;}
+
